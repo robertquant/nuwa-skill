@@ -1,0 +1,22 @@
+David Tepper Research Plan
+==========================
+
+Search Targets:
+1. Publications by David Tepper (books, investor letters, memos)
+2. Long-form interviews (Bloomberg, CNBC, institutional investor)
+3. Core investment philosophy and recurring themes
+4. Key speeches and lectures
+5. Recommended reading lists
+
+Info Source Requirements:
+- Primary sources: Direct quotes, writings, interviews
+- Secondary sources: Articles, analysis by others
+- Credibility: High quality financial publications only
+- Blacklist: Zhihu, WeChat articles, Baidu Baike
+
+Focus Areas:
+- Distressed debt investment approach
+- 2008 financial crisis trades
+- Risk arbitrage philosophy
+- Market psychology insights
+- Position sizing and timing
