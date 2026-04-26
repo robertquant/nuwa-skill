@@ -1,0 +1,52 @@
+# 女娲已完成人物Skill列表
+# 格式: [skill-directory-name] - [人物名] - [完成日期]
+
+paul-graham-perspective - Paul Graham - 2025-Q4
+naval-perspective - Naval Ravikant - 2025-Q4
+steve-jobs-perspective - Steve Jobs - 2025-Q4
+elon-musk-perspective - Elon Musk - 2025-Q4
+munger-perspective - Charlie Munger - 2025-Q4
+andrej-karpathy-perspective - Andrej Karpathy - 2025-Q4
+ben-horowitz-perspective - Ben Horowitz - 2025-Q4
+marc-andreessen-perspective - Marc Andreessen - 2025-Q4
+jack-dorsey-perspective - Jack Dorsey - 2025-Q4
+brian-armstrong-perspective - Brian Armstrong - 2025-Q4
+ilya-sutskever-perspective - Ilya Sutskever - 2025-Q4
+geoffrey-hinton-perspective - Geoffrey Hinton - 2025-Q4
+brian-chesky-perspective - Brian Chesky - 2025-Q4
+andrew-ng-perspective - Andrew Ng - 2025-Q4
+duan-yongping-perspective - Duan Yongping - 2025-Q4
+wang-xing-perspective - Wang Xing - 2025-Q4
+zhang-yiming-perspective - Zhang Yiming - 2025-Q4
+reed-hastings-perspective - Reed Hastings - 2025-Q4
+pavel-durov-perspective - Pavel Durov - 2025-Q4
+daniel-kahneman-perspective - Daniel Kahneman - 2025-Q4
+ray-dalio-perspective - Ray Dalio - 2025-Q4
+bill-ackman-perspective - Bill Ackman - 2025-Q4
+trump-perspective - Donald Trump - 2025-Q4
+david-tepper-perspective - David Tepper - 2025-Q4
+mrbeast-perspective - MrBeast - 2025-Q4
+sun-yuchen-perspective - Sun Yuchen - 2025-Q4
+jack-ma-perspective - Jack Ma - 2025-Q4
+wang-yangming-perspective - Wang Yangming - 2025-Q4
+jensen-huang-perspective - Jensen Huang - 2025-Q4
+laozi-perspective - Laozi - 2025-Q4
+jeff-bezos-perspective - Jeff Bezos - 2025-Q4
+pony-ma-perspective - Pony Ma - 2025-Q4
+zhangxuefeng-perspective - Zhang Xuefeng - 2025-Q4
+lei-jun-perspective - Lei Jun - 2025-Q4
+dong-mingzhu-perspective - Dong Mingzhu - 2025-Q4
+yu-minhong-perspective - Yu Minhong - 2025-Q4
+cao-dewang-perspective - Cao Dewang - 2025-Q4
+liu-qiangdong-perspective - Liu Qiangdong - 2025-Q4
+evan-williams-perspective - Evan Williams - 2025-Q4
+nietzsche-perspective - Nietzsche - 2025-Q4
+kierkegaard-perspective - Kierkegaard - 2025-Q4
+wittgenstein-perspective - Wittgenstein - 2025-Q4
+confucius-perspective - Confucius - 2025-Q4
+taleb-perspective - Taleb - 2025-Q4
+feynman-perspective - Feynman - 2025-Q4
+isaiah-berlin-perspective - Isaiah Berlin - 2025-Q4
+popper-perspective - Karl Popper - 2025-Q4
+patrick-collison-perspective - Patrick Collison - 2025-Q4
+daniel-ek-perspective - Daniel Ek - 2026-04-26

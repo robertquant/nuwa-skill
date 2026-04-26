@@ -1,0 +1,53 @@
+# 女娲蒸馏人物列表
+# 格式: 序号. 人物名（中文名） - 描述 | 状态
+
+1. ✅ 已完成 | Paul Graham (保罗·格雷厄姆) - Y Combinator创始人
+2. ✅ 已完成 | Naval Ravikant - AngelList创始人
+3. ✅ 已完成 | Steve Jobs (史蒂夫·乔布斯) - Apple联合创始人
+4. ✅ 已完成 | Elon Musk (埃隆·马斯克) - Tesla/SpaceX CEO
+5. ✅ 已完成 | Charlie Munger (查理·芒格) - Berkshire Hathaway副主席
+6. ✅ 已完成 | Andrej Karpathy - AI研究员
+7. ✅ 已完成 | Ben Horowitz (本·霍洛维茨) - a16z联合创始人
+8. ✅ 已完成 | Marc Andreessen (马克·安德森) - a16z联合创始人
+9. ✅ 已完成 | Jack Dorsey (杰克·多西) - Twitter/Block创始人
+10. ✅ 已完成 | Brian Armstrong - Coinbase创始人/CEO
+11. ✅ 已完成 | Ilya Sutskever (伊利亚·苏茨克维尔) - SSI创始人
+12. ✅ 已完成 | Geoffrey Hinton (杰弗里·辛顿) - 深度学习之父
+13. ✅ 已完成 | Brian Chesky (布莱恩·切斯基) - Airbnb创始人
+14. ✅ 已完成 | Andrew Ng (吴恩达) - AI教育者
+15. ✅ 已完成 | Duan Yongping (段永平) - 步步高/OPPO/vivo创始人
+16. ✅ 已完成 | Wang Xing (王兴) - 美团创始人
+17. ✅ 已完成 | Zhang Yiming (张一鸣) - 字节跳动创始人
+18. ✅ 已完成 | Reed Hastings (里德·哈斯廷斯) - Netflix联合创始人
+19. ✅ 已完成 | Pavel Durov (帕维尔·杜罗夫) - Telegram创始人
+20. ✅ 已完成 | Daniel Kahneman (丹尼尔·卡尼曼) - Nobel经济学奖得主
+21. ✅ 已完成 | Ray Dalio (雷·达里奥) - Bridgewater创始人
+22. ✅ 已完成 | Bill Ackman (比尔·阿克曼) - Pershing Square创始人
+23. ✅ 已完成 | Donald Trump (特朗普) - 前美国总统
+24. ✅ 已完成 | David Tepper (大卫·泰珀) - Appaloosa Management创始人
+25. ✅ 已完成 | MrBeast - YouTuber/内容创作者
+26. ✅ 已完成 | Sun Yuchen (孙宇晨) - TRON创始人
+27. ✅ 已完成 | Jack Ma (马云) - 阿里巴巴创始人
+28. ✅ 已完成 | Wang Yangming (王阳明) - 明代心学宗师
+29. ✅ 已完成 | Jensen Huang (黄仁勋) - NVIDIA创始人
+30. ✅ 已完成 | Laozi (老子) - 道家创始人
+31. ✅ 已完成 | Jeff Bezos (杰夫·贝索斯) - Amazon创始人
+32. ✅ 已完成 | Pony Ma (马化腾) - 腾讯创始人
+33. ✅ 已完成 | Zhang Xuefeng (张雪峰) - 教育咨询师
+34. ✅ 已完成 | Lei Jun (雷军) - 小米创始人
+35. ✅ 已完成 | Dong Mingzhu (董明珠) - 格力电器董事长
+36. ✅ 已完成 | Yu Minhong (俞敏洪) - 新东方创始人
+37. ✅ 已完成 | Cao Dewang (曹德旺) - 福耀玻璃创始人
+38. ✅ 已完成 | Liu Qiangdong (刘强东) - 京东创始人
+39. ✅ 已完成 | Evan Williams (埃文·威廉姆斯) - Blogger/Twitter/Medium创始人
+40. ✅ 已完成 | Nietzsche (尼采) - 哲学家
+41. ✅ 已完成 | Kierkegaard (克尔凯郭尔) - 存在主义之父
+42. ✅ 已完成 | Wittgenstein (维特根斯坦) - 哲学家
+43. ✅ 已完成 | Confucius (孔子) - 儒家创始人
+44. ✅ 已完成 | Taleb (塔勒布) - 《黑天鹅》作者
+45. ✅ 已完成 | Feynman (费曼) - 物理学家
+46. ✅ 已完成 | Isaiah Berlin (以赛亚·伯林) - 政治哲学家
+47. ✅ 已完成 | Karl Popper (卡尔·波普尔) - 科学哲学家
+48. ✅ 已完成 | Patrick Collison - Stripe联合创始人
+49. ✅ 已完成 | Daniel Ek (丹尼尔·埃克) - Spotify创始人
+50. ✅ 已完成 | Travis Kalanick (特拉维斯·卡兰尼克) - Uber创始人
