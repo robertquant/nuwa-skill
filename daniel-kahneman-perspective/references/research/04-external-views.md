@@ -2,11 +2,39 @@
 
 ## 正面评价
 
-### Richard Thaler (2017)
-- 来源：https://www.russellsage.org/news/memoriam-daniel-kahneman-1934-2024
-- 评价内容："Danny Kahneman had a long and productive relationship with RSF... It began with a conversation [former RSF president] Eric Wanner had with Amos and Danny about the possibility of creating a new field at the intersection of psychology and economics."
-- 评价维度：学术合作、行为经济学奠基贡献
-- 可信度：高（长期合作者，诺贝尔经济学奖得主）
+### Nobel Prize Committee评语 (2002)
+- 来源：https://www.nobelprize.org/prizes/economic-sciences/2002/summary/
+- 授奖理由："for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty"
+- 共享奖项：与Vernon L. Smith共享（后者因实验经济学方法论获奖）
+- 评价维度：跨学科贡献、心理学与经济学的融合
+- 可信度：最高（诺贝尔奖官方）
+
+### Behavioral Scientist纪念文集 (2024)
+- 来源：https://behavioralscientist.org/remembering-daniel-kahneman/
+- **Richard Thaler的评价**：
+  - 回忆1984-85年在UBC与Kahneman合作的经历
+  - "Danny Kahneman changed how we understand rationality and its limits"
+  - 描述Kahneman对细节的严格要求：总是质疑自己的发现，对一切进行压力测试
+  - 合作者谈话总是以"To be continued"结束，体现其开放探索的态度
+- **Cass Sunstein的评价**：
+  - 描述与Kahneman一起工作的体验："Danny通过谈话思考"
+  - Kahneman认为"发现自己是错的"是学习的方式
+- **Adam Grant的评价**：
+  - Kahneman对他说："That was wonderful. I was wrong."
+  旦发现自己错误时的喜悦："No one enjoys being wrong, but I do enjoy having been wrong, because it means I am now less wrong than I was before."
+  - 关于认知态度："Finding out that I was wrong is the only way I'm sure that I've learned anything."
+  - 对观念的态度："Your ideas are not your identity. They're just hypotheses."
+- **Dan Lovallo的评价**：
+  - Kahneman对自己思维变化的比喻："I'm more like a spiral than a circle"
+  - 即使看似回到原点，实际上在螺旋式深入理解问题
+- **Angela Duckworth的评价**：
+  - 分享Kahneman打电话寻找遗落行李箱的故事，展现其谦逊品格
+  - "It's possible to be a world-famous genius...and interact with anybody and everybody with utmost respect and dignity"
+- **Olivier Sibony的评价**：
+  - Kahneman的完美主义：重写同一句子两三次甚至十次，追求精确
+  - 对截止日期的态度："Deadlines have no effect on me. I can't hurry even if I want to; and I don't want to."
+  - 延请顾问专门寻找论文缺陷："We have to pay people to tell us how bad this work is."
+- 可信度：高（多位合作者的第一手观察）
 
 ### Princeton University悼词 (2024)
 - 来源：https://www.princeton.edu/news/2024/03/28/daniel-kahneman-pioneering-behavioral-psychologist-nobel-laureate-and-giant-field
@@ -56,6 +84,10 @@
 
 ### 复现危机批评 (2012至今)
 - 来源：多个学术讨论、Nature报道
+- **Nature报道 (2018)**：https://www.nature.com/articles/d41586-018-07474-y
+  - "Half of 28 attempted replications failed even under near-ideal conditions"
+  - 复现失败不能归因于研究人群差异
+  - 大规模复现项目显示心理学研究的复现率约50%
 - 批评内容：
   - 心理学"复现危机"波及Kahneman引用的多项研究
   - John Bargh的"老年启动效应"实验无法复现（Doyen et al., 2012）
@@ -95,6 +127,33 @@
 ---
 
 ## 学术争议
+
+### Kahneman对复现危机的态度与方法论创新
+
+**2012年公开信重要内容**：
+Kahneman致信John Bargh等社会启动效应研究者：
+> "As all of you know, questions have been raised about the robustness of priming results... your field is now the poster child for doubts about the integrity of psychological research... I see a train wreck looming."
+
+**核心关切**：
+- 担心整个心理学领域因复现问题而丧失公信力
+- 呼吁研究者主动进行复现研究而非被动等待批评
+- 倡议创建复现研究网络
+
+**方法论创新 — 对抗性合作(Adversarial Collaboration)**：
+- 定义：与持相反观点的研究者共同设计实验
+- 目的：确保争议双方都认同实验设计的公平性
+- Kahneman多次实践此方法：
+  - 与质疑损失厌恶效应的研究者合作复现
+  - 与Gigerenzer等批评者进行公开对话
+- 学术意义：降低确认偏误，提高结论可信度
+
+**2017年在Schimmack博客评论**：
+- 承认《思考，快与慢》第4章引用的启动效应研究存在问题
+- 表示愿意在再版时更新内容
+- 强调书中其他核心概念（系统1/系统2、损失厌恶、框架效应）仍然有效
+
+**Nature讣告的总结**：
+> "Mild and self-effacing, Kahneman was open to the likelihood that he himself was often wrong. He engaged in what he called 'adversarial collaborations' — in which researchers with competing theories work together towards some resolution."
 
 ### 1. Priming效应可复现性危机
 
@@ -237,6 +296,25 @@
 
 ## 来自传统经济学界的批评
 
+### 行为经济学的接受与质疑
+- 来源：https://www.econlib.org/library/Enc/BehavioralEconomics.html
+- **传统经济学假设的挑战**：
+  - "标准经济模型包含三个不现实的特征——无限理性、无限意志力、无限自私——行为经济学对这三者都进行了修正"
+  - Herbert Simon早期提出"有限理性"（bounded rationality）概念，为行为经济学奠基
+- **主要批评角度**：
+  - 行为经济学发现可能被过度外推到现实情境
+  - 部分效应在市场环境中可能减弱或消失
+  - 实验室结果的外部效度问题
+- **行为经济学的成功领域**：
+  - 金融学（原本被认为最难应用行为经济学的领域）
+  - 储蓄行为研究（401(k)默认参与、Save More Tomorrow计划）
+  - 封闭式基金折价之谜
+  - 股票市场过度反应与反应不足
+- **行为公共政策的影响**：
+  - 默认选项转换显著提高养老金参与率
+  - 雇员根据默认资产配置做选择，而非主动优化
+  - Save More Tomorrow计划使参与者的储蓄率从3.5%提升至13.6%
+
 ### "非理性"标签的争议
 
 **批评观点**：
@@ -287,6 +365,7 @@
 - **跨学科影响**：心理学、经济学、医学、政治学、法学都受其影响
 - **概念工具持久**：损失厌恶、前景理论、锚定效应、框架效应等已成为基本概念
 - **科普启蒙**：《思考，快与慢》让认知心理学走向大众
+- **诺贝尔奖评价**："将心理学研究的洞见融入经济学，特别是关于不确定条件下的判断与决策"
 
 ### 主要争议与批评焦点
 1. **复现危机**：部分核心研究（尤其是启动效应）无法复现
@@ -294,11 +373,31 @@
 3. **理性标准**：Gigerenzer等人批评其理性观过于狭隘
 4. **方法论局限**：早期心理学研究普遍存在统计功效不足问题
 
+### 对复现危机的独特贡献
+与许多被复现危机波及的学者不同，Kahneman：
+- 主动承认问题而非辩护
+- 倡导"对抗性合作"方法论
+- 在《思考，快与慢》中坦诚不确定领域
+- 成为例外地在批评中声誉提升的学者
+
+### 待商榷的核心概念
+| 概念 | 当前状态 | 备注 |
+|------|----------|------|
+| 社会启动效应 | 高度可疑 | 多项复现失败 |
+| 意志力损耗 | 争议中 | 效应可能被高估 |
+| 系统1/系统2 | 作为启发式工具仍有价值 | 神经科学对应存疑 |
+| 锚定效应 | 已复现 | 广泛验证 |
+| 框架效应 | 已复现 | 前景理论核心 |
+| 损失厌恶 | 已复现但效应量有争议 | 前景理论核心 |
+| 前景理论 | 经济学接受 | 2002年诺贝尔奖依据 |
+| 可得性启发式 | 已复现 | 经典发现 |
+
 ### 历史定位
 - 被《思考，快与慢》引用的部分研究已不可信
 - 但前景理论、损失厌恶、框架效应等核心贡献经受住检验
 - 其对复现危机的坦诚回应增强了学术界对其诚信的尊重
 - 最终评价：一位开创了时代但也受限于时代方法论局限的学者
+- 与Tversky的合作被视为学术界的黄金搭档典范
 
 ---
 

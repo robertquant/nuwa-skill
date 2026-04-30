@@ -642,6 +642,278 @@ Avoid:
 
 ---
 
+---
+
+## 补充：诺贝尔自传中的表达DNA（2026-04-30更新）
+
+### 叙事型自我揭示
+
+从Kahneman的诺贝尔自传中，我们发现了一种独特的叙事风格：
+
+**1. 用童年故事揭示命运**
+
+> "I will never know if my vocation as a psychologist was a result of my early exposure to interesting gossip, or whether my interest in gossip was an indication of a budding vocation."
+
+**分析**：
+- 用自问自答的方式引出职业缘起
+- 不给出确定答案，保持开放性
+- 将"八卦"与"心理学"建立关联，幽默且深刻
+- "I will never know"体现认识论谦逊
+
+**2. 情感故事中的认知洞察**
+
+关于一个德国士兵在战争期间拥抱他的经历：
+
+> "As I came closer to him, trying to walk fast, I noticed that he was looking at me intently. Then he beckoned me over, picked me up, and hugged me. I was terrified that he would notice the star inside my sweater. He was speaking to me with great emotion, in German. When he put me down, he opened his wallet, showed me a picture of a boy, and gave me some money. I went home more certain than ever that my mother was right: people were endlessly complicated and interesting."
+
+**分析**：
+- 先叙述紧张的情节（恐惧、被抓住的风险）
+- 用意外的温情（拥抱、照片、钱）制造反转
+- 结尾用一个简洁的洞察收束："people were endlessly complicated and interesting"
+- 这句话成为他一生的主题——对人性复杂性的探索
+
+**3. 自嘲式自我揭示**
+
+> "I had a notebook of essays, with a title that still makes me blush: 'What I write of what I think.'"
+
+> "I must have been quite a pompous child."
+
+**分析**：
+- 主动暴露自己的幼稚和傲慢
+- "still makes me blush"展示自我意识
+- 这种自嘲拉近与读者的距离
+- 同时暗示：成年人Kahneman对童年自己的批判性审视
+
+**4. 用具体数字建立可信度**
+
+> "It must have been late 1941 or early 1942."
+
+> "I had grown up intellectually precocious and physically inept."
+
+> "Six weeks before the D-day he had been waiting for so desperately."
+
+**分析**：
+- 具体的时间、数量增加叙事可信度
+- "intellectually precocious and physically inept"用对比突出角色特征
+- 命运的反讽：父亲在解放前夕去世
+
+### 发现"错觉"的叙事
+
+关于他发现的第一个认知错觉——"有效性错觉"：
+
+> "But the trouble was that, in fact, we could not tell. Every month or so we had a 'statistics day,' during which we would get feedback from the officer-training school, indicating the accuracy of our ratings of candidates' potential. The story was always the same: our ability to predict performance at the school was negligible. But the next day, there would be another batch of candidates to be taken to the obstacle field, where we would face them with the wall and see their true natures revealed. I was so impressed by the complete lack of connection between the statistical information and the compelling experience of insight that I coined a term for it: 'the illusion of validity.'"
+
+**这是一个完美的Kahneman式叙事模板**：
+
+1. **设置情境**：军事评估场景，有明确角色和任务
+2. **引入矛盾**：统计证据与主观体验的冲突
+3. **揭示反讽**：即使有证据反驳，人们仍然相信直觉
+4. **产生洞察**：命名一个新的认知错觉
+5. **学术延续**："Almost twenty years later, this term made it into the technical literature"
+
+**表达DNA解码**：
+- "But the trouble was that, in fact, we could not tell" —— 先说期望，再揭示现实
+- "The story was always the same" —— 用重复性建立规律性
+- "But the next day" —— 反讽：即使有证据，行为依旧
+- "I was so impressed by" —— 强调情感冲击，而非仅仅理性发现
+- "I coined a term for it" —— 学术命名意识
+
+### 面对错误的坦诚
+
+关于他21岁时为军队设计的面试系统：
+
+> "It was a hopeless task, but I didn't realize that then. Instead, spending weeks and months on complex analyses using a manual Monroe calculator with a rather iffy handle, I invented a statistical technique for the analysis of multi-attribute heteroscedastic data... I was capitalizing on chance, but the technique had enough charm for one of my graduate-school teachers... to write it up in what became my first published article."
+
+**分析**：
+- "It was a hopeless task, but I didn't realize that then" —— 回顾性自我批判
+- "I was capitalizing on chance" —— 承认自己的成功源于运气
+- "with a rather iffy handle" —— 幽默细节，让叙事生动
+- 这展示了他对"过度自信"的亲身体验，也是后来研究的核心主题
+
+### 学术传承的感恩
+
+> "Fifty years later, I still draw on Lewin's analysis... for my introductory lecture to graduate students at Princeton."
+
+> "I had enormous respect for his fierce mind."
+
+**分析**：
+- 用具体时间跨度（"Fifty years later"）强调影响的持久性
+- "fierce mind" —— 形容导师时的钦佩
+- 展示知识传授的连续性
+
+### 独特的句式结构
+
+**1. 条件式反思句**
+
+> "I will never know if my vocation as a psychologist was a result of my early exposure to interesting gossip, or whether my interest in gossip was an indication of a budding vocation."
+
+结构："I will never know if X was a result of Y, or whether Y was an indication of X" —— 保持因果不确定性的对称表达
+
+**2. 反讽对比句**
+
+> "The ineptitude must have been quite remarkable, because during my last term... my eighth-grade physical-education teacher blocked my inclusion in the Tableau d'Honneur... on the grounds that even his extreme tolerance had limits."
+
+结构：用"even his extreme tolerance had limits"突出自己多么不擅长运动
+
+**3. 顿悟式结尾句**
+
+> "I went home more certain than ever that my mother was right: people were endlessly complicated and interesting."
+
+结构：叙事 → 反转 → 简洁洞察
+
+### 确定性表达的微妙层次
+
+从自传中，我们可以看到Kahneman对确定性的精细区分：
+
+| 表达方式 | 示例 | 确定性程度 |
+|---------|------|----------|
+| 完全确定 | "I was so impressed by..." | 高（主观感受） |
+| 条件确定 | "if my vocation... was a result of" | 中（假设性） |
+| 承认不知 | "I will never know if" | 低（认识论谦逊） |
+| 回顾确定 | "It must have been late 1941" | 中高（推断性） |
+| 反讽式确定 | "I was capitalizing on chance" | 高（自我批判） |
+
+---
+
+## 补充：Farnam Street访谈表达DNA（Knowledge Project, 2019）
+
+### 关于行为改变的怀疑论
+
+> "I think changing behavior is extremely difficult. There are a few tips and a few guidelines about how to do that, but anybody who's very optimistic about changing behavior is just deluded. It's hard to change other people's behavior. It's very hard to change your own. Not simple."
+
+**表达特征**：
+- "extremely difficult"比"difficult"更强
+- "just deluded" —— 直接且不留情面
+- "It's hard... It's very hard..." —— 递进强调
+- "Not simple." —— 两字结尾，制造停顿效果
+
+### 关于动机的复杂性
+
+> "I'd like people to know that motivation is complex, and that people do good things for a mixture of good and bad reasons; and they do bad things for a mixture of good and bad reasons. I think that there is a point to educating people in psychology. It's to make them less judgmental. Just have more empathy and more patience. Being judgmental doesn't get you anywhere."
+
+**表达特征**：
+- "mixture of good and bad reasons" —— 用对称结构表达复杂动机
+- "less judgmental" —— 心理学的实践价值
+- "doesn't get you anywhere" —— 口语化表达，强调无用性
+
+### 关于直觉思维
+
+> "What gets in the way of clear thinking is that we have intuitive views of almost everything. So as soon as you present a problem to me, I have some ready made answer. What gets in the way of clear thinking are those ready made answers, and we can't help but have them."
+
+**表达特征**：
+- "of almost everything" —— 强调普遍性
+- "So as soon as..." —— 展示速度之快
+- "ready made answer" —— 直觉判断的隐喻
+- "we can't help but have them" —— 强调不可避免
+
+### 关于快速判断的形成
+
+> "Very quickly you form an impression, and then you spend most of your time confirming it instead of collecting evidence."
+
+**分析**：
+- 这句话完美总结了确认偏误的核心机制
+- 用"形成印象"和"确认印象"的时间对比（"Very quickly" vs "most of your time"）突出认知的不对称性
+
+### 关于谈判的洞见
+
+> "Negotiations is not about trying to convince the other guy. It's about trying to understand them. So again, it's slowing yourself down. It's not doing what comes naturally because trying to convince them is applying pressure. Arguments, promises, and threats are always applying pressure. What you really want is to understand what you can do to make it easy for them to move your way. Very non-intuitive. That's a surprising thing when you teach negotiation. It's not obvious. We are taught to apply pressure and socialize that way."
+
+**表达特征**：
+- 开头的否定定义："is not about X. It's about Y"
+- 解释为什么直觉是错的
+- 给出具体的替代策略
+- 用"Very non-intuitive"标记反直觉性
+- 批评社会化的直觉（"We are taught to apply pressure"）
+
+### 关于判断独立性的类比
+
+> "Independence is the key because otherwise when you don't take those precautions, it's like having a bunch of witnesses to some crime and allowing those witnesses to talk to each other. They're going to be less valuable if you're interested in the truth than keeping them rigidly separate, and collecting what they have to say."
+
+**表达特征**：
+- 用司法场景（证人）类比心理学概念（独立判断）
+- "rigidly separate" —— 强调关键的隔离方法
+- "collecting what they have to say" —— 审慎的信息收集方法
+
+### 关于信念的形成
+
+> "We have beliefs because mostly we believe in some people, and we trust them. We adopt their beliefs. We don't reach our beliefs by clear thinking, unless you're a scientist or doing something like that. There's a fair amount of emotion when you're a scientist as well that gets in the way of clear thinking. Commitments to your previous views, being insulted that somebody thinks he's smarter than you are. I mean lots of things get in the way, even when you're a scientist. So I'd say there is less clear thinking than people like to think."
+
+**表达特征**：
+- "We have beliefs because mostly we believe in some people" —— 信念的社会性
+- "unless you're a scientist or doing something like that" —— 自我指涉（他是科学家）
+- "being insulted that somebody thinks he's smarter than you are" —— 揭示学术界的心理
+- "I'd say there is less clear thinking than people like to think" —— 双重"think"的文字游戏
+
+---
+
+## 表达DNA核心更新总结
+
+### 新发现的特征
+
+| 特征 | 诺贝尔自传 | Farnam Street访谈 |
+|------|-----------|-----------------|
+| 叙事型自我揭示 | ✓ 童年故事揭示命运 | ✓ |
+| 自嘲式自我批判 | ✓ "pompous child" | - |
+| 具体数字建立可信度 | ✓ 时间、年龄、统计 | - |
+| 顿悟式结尾 | ✓ "people were endlessly complicated" | - |
+| 怀疑论表达 | - | ✓ "just deluded" |
+| 口语化收尾 | - | ✓ "Not simple." |
+| 社会性信念分析 | - | ✓ "We adopt their beliefs" |
+| 反直觉标记 | - | ✓ "Very non-intuitive" |
+
+### Kahneman式句式工具箱
+
+**叙事型**：
+- "I will never know if... or whether..." （保持因果不确定）
+- "It must have been [time]" （推断性确定）
+- "I was so [emotion] by [discovery] that I coined a term for it" （发现叙事）
+
+**分析型**：
+- "The story was always the same: [observation]. But the next day, [contradiction]." （揭示反讽）
+- "It's not about X. It's about Y." （否定定义）
+- "Very [adjective]. That's a surprising thing when..." （反直觉标记）
+
+**怀疑论型**：
+- "anybody who's very optimistic about X is just deluded" （直接批评）
+- "There is less [thing] than people like to think" （低调期望）
+- "We can't help but [behavior]" （强调不可避免）
+
+**对比型**：
+- "Very quickly you [action], and then you spend most of your time [contradictory action]" （时间对比）
+- "It's hard to X. It's very hard to Y. Not simple." （递进强调）
+
+### 幽默方式总结
+
+Kahneman的幽默主要有三种形式：
+
+1. **自嘲**：暴露自己的幼稚、傲慢或错误
+   - "I must have been quite a pompous child."
+   - "I was capitalizing on chance."
+
+2. **反讽**：揭示情境的荒谬性
+   - "The story was always the same... But the next day..."
+   - "even his extreme tolerance had limits"
+
+3. **口语化收尾**：用短促有力的短语结束
+   - "Not simple."
+   - "Being judgmental doesn't get you anywhere."
+
+### 节奏感更新
+
+**诺贝尔自传中的节奏特征**：
+- 长句与短句交替
+- 叙事段落通常以简洁洞察结尾
+- 使用冒号引入总结性陈述（"people were endlessly complicated and interesting"）
+- 时间跳跃时的快速过渡（"Fifty years later, I still draw on..."）
+
+**访谈中的节奏特征**：
+- 停顿处的"short phrases"（"Not simple."）
+- 递进叠词（"It's hard... It's very hard..."）
+- 用"So again"标记转折后的再次强调
+
+---
+
 *文档创建时间：2026-04-18*
 *创建者：AI Research Agent（基于公开资料整理）*
-*最后更新：2026-04-18*
+*最后更新：2026-04-30*
+*更新内容：补充诺贝尔自传和Farnam Street访谈的表达DNA分析*

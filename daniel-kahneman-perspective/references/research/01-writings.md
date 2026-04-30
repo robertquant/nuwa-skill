@@ -1,420 +1,514 @@
-# Daniel Kahneman - 著作与系统思考
+# Daniel Kahneman 著作与系统性长文研究
 
-## 核心著作
-
-### 《Thinking, Fast and Slow》(2011) - 《思考，快与慢》
-
-- **核心论点**：
-  - 双系统理论（Dual-Process Theory）：人类思维由两个系统构成
-    - System 1（快思考）：快速、自动、直觉、情感驱动、无意识
-    - System 2（慢思考）：缓慢、需要努力、逻辑、有意识、深思熟虑
-  - 系统1负责大部分日常决策，但容易产生认知偏差
-  - 系统2懒惰，常默认接受系统1的判断
-  - 理解这两个系统可以帮助我们做出更好的决策
-- **获奖情况**：
-  - 纽约时报畅销书
-  - 2012年美国国家科学院最佳图书奖
-  - 纽约时报书评2011年十大图书
-  - 经济学人2011年度图书
-  - 华尔街日报2011年度最佳非虚构图书
-- **来源**：
-  - https://book.douban.com/subject/6754574/（豆瓣，一手信息整理）
-  - https://kahneman.scholar.princeton.edu/publications（普林斯顿官方页面，一手）
-- **可信度**：一手
-
-### 《Noise: A Flaw in Human Judgment》(2021) - 《噪声：人类判断的缺陷》
-
-- **合著者**：Olivier Sibony, Cass R. Sunstein
-- **核心论点**：
-  - 判断中的"噪声"（noise）是导致错误的重要因素
-  - 噪声定义：在应该相同的判断中出现的变异性
-  - 案例：同一位医生在不同时间给出不同诊断，同一位法官对类似案件判刑不一
-  - 噪声与偏差（bias）不同，但同样有害
-  - 阐明了为什么人类判断易受噪声影响，以及如何减少噪声
-- **应用领域**：医学、法律、公共卫生、经济预测、食品安全、法医科学、保释判决、儿童保护、战略、绩效评估、人员选拔
-- **来源**：
-  - https://readnoise.com/（官方网站，一手）
-  - https://book.douban.com/subject/35308259/（豆瓣，二手整理）
-- **可信度**：一手
-
-### 《Attention and Effort》(1973)
-
-- **核心论点**：
-  - 注意力与心理努力（mental effort）密切相关
-  - 提出了注意力可以被等同于努力的观点
-  - 探讨了认知资源的有限性和注意力的分配机制
-  - 为后来的双系统理论奠定了基础
-- **出版社**：Prentice Hall
-- **页数**：240页
-- **来源**：
-  - https://book.douban.com/subject/1479558/（豆瓣，二手整理）
-  - https://kahneman.scholar.princeton.edu/publications（普林斯顿官方页面，一手）
-- **可信度**：一手
-- **备注**：该书全文可在普林斯顿Kahneman学者页面免费获取
-
-### 《Judgment under Uncertainty: Heuristics and Biases》(1982) - 编辑著作
-
-- **合著者/编辑**：Daniel Kahneman, Paul Slovic, Amos Tversky
-- **核心内容**：
-  - 汇集了启发式和偏差研究项目的开创性论文
-  - 系统性地介绍了三种核心启发式：代表性、可得性、锚定调整
-- **出版社**：Cambridge University Press
-- **页数**：544页
-- **来源**：https://book.douban.com/subject/1793769/（豆瓣，二手整理）
-- **可信度**：一手（编辑著作）
-
-### 《Choices, Values, and Frames》(2000) - 《选择、价值与决策》
-
-- **合著者/编辑**：Daniel Kahneman, Amos Tversky
-- **核心内容**：
-  - 汇集了前景理论及其扩展的论文
-  - 包含《前景理论：风险决策分析》等经典论文
-- **出版社**：Cambridge University Press
-- **中文版出版社**：机械工业出版社（2018年，郑磊译）
-- **页数**：888页
-- **来源**：
-  - https://book.douban.com/subject/30172741/（豆瓣）
-  - https://baike.baidu.com/item/选择、价值与决策/22441071（百度百科）
-- **可信度**：一手（编辑著作）
+**研究日期**: 2026-04-30
+**研究目标**: 系统整理 Daniel Kahneman 的著作、论文、核心论点、自创术语及推荐书单
 
 ---
 
-## 重要学术论文
+## 一、出版书籍
 
-### 《Prospect Theory: An Analysis of Decision under Risk》(1979)
+### 1. Thinking, Fast and Slow (《思考，快与慢》)
+- **出版年份**: 2011
+- **出版社**: Farrar, Straus and Giroux
+- **核心论点**:
+  - 系统1（System 1）与系统2（System 2）的双系统理论
+  - 系统1：快速、自动、直觉、无意识
+  - 系统2：慢速、理性、有意识、需要努力
+  - 大多数决策由系统1主导，系统2往往只是事后合理化
+- **一手来源**: 作者本人撰写
 
-- **作者**：Daniel Kahneman, Amos Tversky
-- **发表期刊**：Econometrica, Vol. 47, No. 2, pp. 263-291
-- **核心论点**：
-  - 挑战了传统的期望效用理论（Expected Utility Theory）
-  - 提出前景理论（Prospect Theory），解释人们在不确定性下的决策行为
-  - 发现人们在面对收益时规避风险，面对损失时追求风险
-  - 发现损失带来的痛苦大于同等金额收益带来的快乐（损失厌恶）
-  - 提出价值函数是S形的：收益部分凹形，损失部分凸形，且损失部分更陡峭
-- **核心概念**：
-  - 参考点依赖（Reference Dependence）：人们在评估收益和损失时，基于相对于某个参考点的变化，而非绝对财富水平
-  - 损失厌恶（Loss Aversion）：人们对损失的敏感程度高于对同等金额收益的敏感程度
-  - 确定效应（Certainty Effect）：人们倾向于确定的事物而非可能性更大的选项
-- **来源**：
-  - https://www.jstor.org/stable/1914185（JSTOR）
-  - https://www.econometricsociety.org/publications/econometrica/1979/03/01/prospect-theory-analysis-decision-under-risk（期刊官方）
-- **可信度**：一手
+### 2. Attention and Effort (《注意与努力》)
+- **出版年份**: 1973
+- **出版社**: Prentice-Hall
+- **核心论点**:
+  - 注意力是一种有限资源
+  - 提出注意力的容量模型
+  - 探讨认知努力与任务难度之间的关系
+- **一手来源**: 作者本人撰写
+- **来源URL**: https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/ (Nobel Prize官网，可信度：高)
+- **备注**: Kahneman在Nobel自传中提到，这本书源于他在Austen Riggs Clinic与David Rapaport学习弗洛伊德《梦的解析》第七章时的启发
 
-### 《Judgment under Uncertainty: Heuristics and Biases》(1974)
+### 3. Judgment under Uncertainty: Heuristics and Biases (《不确定条件下的判断：启发式与偏差》)
+- **出版年份**: 1982
+- **合编者**: Paul Slovic, Amos Tversky
+- **出版社**: Cambridge University Press
+- **核心论点**:
+  - 收集了早期启发式与偏差研究的核心论文
+  - 系统性展示人类判断偏离理性规范的模式
+- **一手来源**: 作者参与主编
 
-- **作者**：Amos Tversky, Daniel Kahneman
-- **发表期刊**：Science, Vol. 185, No. 4157, pp. 1124-1131
-- **核心论点**：
-  - 提出三种核心启发式（Heuristics）：
-    1. **代表性启发式（Representativeness）**：用于判断物体或事件A属于类别B的概率
-    2. **可得性启发式（Availability）**：用于评估某类的频率或特定发展的合理性
-    3. **锚定调整启发式（Adjustment from an Anchor）**：用于数值预测，从一个起点进行调整
-  - 这些启发式经济高效且通常有效，但会导致系统性的、可预测的错误
-- **来源**：
-  - https://www.science.org/doi/10.1126/science.185.4157.1124（Science官方）
-  - https://www.jstor.org/stable/1738360（JSTOR）
-- **可信度**：一手
-- **引用次数**：超过22,000次（Crossref）
+### 4. Choices, Values, and Frames (《选择、价值与框架》)
+- **出版年份**: 2000
+- **合编者**: Amos Tversky
+- **出版社**: Cambridge University Press
+- **核心论点**:
+  - 前景理论的论文合集
+  - 框架效应研究
+  - 决策制定的描述性研究
+- **一手来源**: 作者参与主编
 
-### 《Advances in Prospect Theory: Cumulative Representation of Uncertainty》(1992)
-
-- **作者**：Amos Tversky, Daniel Kahneman
-- **发表期刊**：Journal of Risk and Uncertainty
-- **核心论点**：
-  - 发展了累积前景理论（Cumulative Prospect Theory）
-  - 使用累积权重而非可分离权重
-  - 扩展了理论，适用于不确定性和风险前景，任意数量的结果
-  - 允许收益和损失有不同的权重函数
-  - 引入"边际敏感度递减"和"损失厌恶"原则解释价值函数和权重函数的特征
-- **来源**：https://link.springer.com/article/10.1007/BF00122574
-- **可信度**：一手
-
-### 其他重要论文
-
-1. **《Subjective Probability: A Judgment of Representativeness》(1972)**
-   - 原创性地提出了代表性启发式
-   - 来源：Cognitive Psychology 3(3), 430-454
-
-2. **《On the Psychology of Prediction》(1973)**
-   - whom: Daniel Kahneman, Amos Tversky
-   - 来源：Psychological Review 80(4), 237-251
-
-3. **《Belief in the Law of Small Numbers》(1971)**
-   - 作者：Amos Tversky, Daniel Kahneman
-   - 核心论点：人们对小样本过度信任，认为小样本能代表总体
-   - 来源：Psychological Bulletin 76(2), 105-110
-
-4. **《Availability: A Heuristic for Judging Frequency and Probability》(1973)**
-   - 作者：Amos Tversky, Daniel Kahneman
-   - 来源：Cognitive Psychology 5(2), 207-232
-
-5. **《The Framing of Decisions and the Psychology of Choice》(1981)**
-   - 作者：Amos Tversky, Daniel Kahneman
-   - 发表期刊：Science, 211, 453-458
-   - 核心论点：问题的呈现方式（框架）影响决策
-
-6. **《Anomalies: The Endowment Effect, Loss Aversion, and Status Quo Bias》(1991)**
-   - 作者：Daniel Kahneman, Jack L. Knetsch, Richard H. Thaler
-   - 核心论点：禀赋效应、损失厌恶和现状偏好的统一解释
-   - 来源：Princeton学者页面（一手）
+### 5. Well-Being: The Foundations of Hedonic Psychology (《幸福：享乐心理学基础》)
+- **出版年份**: 1999
+- **合编者**: Ed Diener, Norbert Schwarz
+- **出版社**: Russell Sage Foundation
+- **核心论点**:
+  - 区分体验性幸福感（experienced well-being）与决策性幸福感（decision utility）
+  - "记忆自我"与"体验自我"的区分
+- **一手来源**: 作者参与主编
 
 ---
 
-## 反复出现的核心论点（出现≥3次）
+## 二、重要学术论文
 
-### 1. 人类决策是非理性的
+### 1. Prospect Theory: An Analysis of Decision under Risk (前景理论)
+- **发表年份**: 1979
+- **发表期刊**: Econometrica, 47(2), 263-291
+- **合著者**: Amos Tversky
+- **核心论点**:
+  - 挑战期望效用理论
+  - 价值函数：参考点依赖、损失厌恶、边际效用递减
+  - 几率权重函数：对小概率高估、对大概率低估
+- **一手来源**: 作者本人撰写
+- **来源URL**: Econometrica官网 (可信度：高)
+- **备注**: 这篇论文是Kahneman获得诺贝尔经济学奖的核心贡献
 
-- **出现场景**：
-  - 《思考，快与慢》：系统1主导决策，导致认知偏差
-  - 前景理论论文：挑战期望效用理论的理性人假设
-  - 启发式和偏差研究：系统性、可预测的非理性
-- **可信度**：核心论点，贯穿所有著作
+### 2. Judgment under Uncertainty: Heuristics and Biases
+- **发表年份**: 1974
+- **发表期刊**: Science, 185(4157), 1124-1131
+- **合著者**: Amos Tversky
+- **核心论点**:
+  - 提出三大启发式：代表性（representativeness）、可得性（availability）、锚定与调整（anchoring and adjustment）
+  - 这些启发式在多数情况下有效，但会导致系统性偏差
+- **一手来源**: 作者本人撰写
+- **来源URL**: Science期刊官网 (可信度：高)
 
-### 2. 双系统理论（System 1 / System 2）
+### 3. On the Psychology of Prediction
+- **发表年份**: 1973
+- **发表期刊**: Psychological Review, 80(4), 237-251
+- **合著者**: Amos Tversky
+- **核心论点**:
+  - 人们倾向于用代表性而非贝叶斯概率来做预测
+  - intuition与统计逻辑之间的冲突
+- **一手来源**: 作者本人撰写
+- **备注**: Kahneman在Nobel自传中提到，这是他从军队面试系统研究中发展出来的想法
 
-- **出现场景**：
-  - 《思考，快与慢》核心框架
-  - 《Attention and Effort》早期基础
-  - 多篇论文中的认知资源有限性假设
-- **可信度**：一手
+### 4. The Framing of Decisions and the Psychology of Choice
+- **发表年份**: 1981
+- **发表期刊**: Science, 211(4481), 453-458
+- **合著者**: Amos Tversky
+- **核心论点**:
+  - 框架效应：同一问题的不同表述会导致不同的选择
+  - 经典的"亚洲疾病问题"实验
+- **一手来源**: 作者本人撰写
 
-### 3. 启发式导致系统性偏差
+### 5. Choices, Values, and Frames
+- **发表年份**: 1984
+- **发表期刊**: American Psychologist, 39(4), 341-350
+- **核心论点**:
+  - 前景理论的进一步阐述
+  - 决策框架与价值函数
+- **一手来源**: 作者本人撰写
 
-- **出现场景**：
-  - 《Judgment under Uncertainty: Heuristics and Biases》(1974论文)
-  - 《Judgment under Uncertainty》(1982编辑著作)
-  - 《思考，快与慢》：后续章节详细展开
-- **三种核心启发式**：
-  - 代表性（Representativeness）
-  - 可得性（Availability）
-  - 锚定调整（Anchoring and Adjustment）
-- **可信度**：一手
+### 6. Loss Aversion in Riskless Choice: A Reference-Dependent Model
+- **发表年份**: 1991
+- **发表期刊**: Quarterly Journal of Economics, 106(4), 1039-1061
+- **合著者**: Jack L. Knetsch, Richard H. Thaler
+- **核心论点**:
+  - 损失厌恶在无风险选择中的体现
+  - 禀赋效应（Endowment Effect）
+- **一手来源**: 作者本人撰写
+
+### 7. Anomalies: The Endowment Effect, Loss Aversion, and Status Quo Bias
+- **发表年份**: 1991
+- **发表期刊**: Journal of Economic Perspectives, 5(1), 193-206
+- **合著者**: Jack L. Knetsch, Richard H. Thaler
+- **核心论点**:
+  - 禀赋效应：人们对自己拥有的东西估价更高
+  - 现状偏向
+- **一手来源**: 作者本人撰写
+
+### 8. New Challenges to the Rationality Assumption
+- **发表年份**: 1997
+- **发表期刊**: Journal of Institutional and Theoretical Economics, 153(1), 18-36
+- **核心论点**:
+  - 对理性假设的持续挑战
+  - 行为经济学的方法论讨论
+- **一手来源**: 作者本人撰写
+
+### 9. Experienced Utility and Objective Happiness: A Moment-Based Approach
+- **发表年份**: 1999
+- **发表章节**: 收录于《Well-Being: The Foundations of Hedonic Psychology》
+- **核心论点**:
+  - 区分体验性效用与决策效用
+  - 时间采样方法评估幸福感
+- **一手来源**: 作者本人撰写
+
+### 10. Maps of Bounded Rationality: Psychology for Behavioral Economics
+- **发表年份**: 2003 (Nobel Lecture)
+- **发表场合**: Nobel Prize Lecture
+- **核心论点**:
+  - 有限理性的心理地图
+  - 系统1/系统2框架的早期版本
+- **一手来源**: 作者本人演讲
+- **来源URL**: https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf (Nobel Prize官网，可信度：高)
+
+---
+
+## 三、反复出现的核心论点（出现≥3次）
+
+### 1. 双系统理论（System 1 / System 2）
+- **出现书籍/论文**: 
+  - Thinking, Fast and Slow (2011) - 核心框架
+  - Maps of Bounded Rationality (2003) - 早期版本
+- **核心内容**: 人类思维有两套系统：系统1快速直觉，系统2缓慢理性。大多数决策由系统1主导。
+- **置信度**: ★★★★★ 核心理论框架
+
+### 2. 前景理论（Prospect Theory）
+- **出现书籍/论文**:
+  - "Prospect Theory: An Analysis of Decision under Risk" (1979)
+  - "The Framing of Decisions and the Psychology of Choice" (1981)
+  - Choices, Values, and Frames (2000)
+  - Thinking, Fast and Slow (2011)
+- **核心内容**: 人们在风险决策中不是最大化期望效用，而是基于参考点评估得失，且对损失比对收益更敏感（损失厌恶）。
+- **置信度**: ★★★★★ 获诺贝尔奖的核心贡献
+
+### 3. 启发式与偏差（Heuristics and Biases）
+- **出现书籍/论文**:
+  - "Judgment under Uncertainty: Heuristics and Biases" (1974)
+  - Judgment under Uncertainty (1982) 论文集
+  - Thinking, Fast and Slow (2011)
+- **核心内容**: 人们使用启发式（代表性、可得性、锚定）做判断，这些方法虽有效率但会导致系统性偏差。
+- **置信度**: ★★★★★ 核心研究纲领
 
 ### 4. 损失厌恶（Loss Aversion）
+- **出现书籍/论文**:
+  - "Prospect Theory" (1979)
+  - "Loss Aversion in Riskless Choice" (1991)
+  - "Anomalies: The Endowment Effect" (1991)
+  - Thinking, Fast and Slow (2011)
+- **核心内容**: 人们对损失的敏感度约为收益的2倍。这是前景理论的核心特征。
+- **置信度**: ★★★★★ 理论核心
 
-- **出现场景**：
-  - 《前景理论》(1979)：核心发现
-  - 《思考，快与慢》：专门章节讨论
-  - 《禀赋效应》论文(1991)：经济损失的心理学解释
-- **核心观点**：损失带来的痛苦大于同等金额收益带来的快乐
-- **可信度**：一手，多次验证
+### 5. 框架效应（Framing Effects）
+- **出现书籍/论文**:
+  - "The Framing of Decisions and the Psychology of Choice" (1981)
+  - "Choices, Values, and Frames" (1984)
+  - Choices, Values, and Frames (2000)
+  - Thinking, Fast and Slow (2011)
+- **核心内容**: 同一问题的不同表述方式会改变人们的决策偏好。
+- **置信度**: ★★★★★ 核心发现
+
+### 6. 禀赋效应（Endowment Effect）
+- **出现书籍/论文**:
+  - "Loss Aversion in Riskless Choice" (1991)
+  - "Anomalies: The Endowment Effect" (1991)
+  - Thinking, Fast and Slow (2011)
+- **核心内容**: 人们对自己拥有的物品估价更高，这是损失厌恶的体现。
+- **置信度**: ★★★★★ 核心概念
+
+### 7. 效用分离（体验自我vs记忆自我）
+- **出现书籍/论文**:
+  - Well-Being: The Foundations of Hedonic Psychology (1999)
+  - "Experienced Utility and Objective Happiness" (1999)
+  - Thinking, Fast and Slow (2011)
+- **核心内容**: 区分"体验自我"（当下的体验）与"记忆自我"（事后的回忆评价）。决策往往基于记忆自我。
+- **置信度**: ★★★★★ 重要理论贡献
+
+### 8. 有限理性与理性假设批判
+- **出现书籍/论文**:
+  - 多篇论文
+  - "New Challenges to the Rationality Assumption" (1997)
+  - Maps of Bounded Rationality (2003)
+  - Thinking, Fast and Slow (2011)
+- **核心内容**: 标准经济学的理性假设是不现实的，行为经济学提供更符合实际的人类行为模型。
+- **置信度**: ★★★★★ 核心方法论立场
+
+### 9. 直觉预测的局限
+- **出现书籍/论文**:
+  - "On the Psychology of Prediction" (1973)
+  - Thinking, Fast and Slow (2011)
+  - Nobel自传中的军队经历
+- **核心内容**: 人们过度相信直觉预测，忽视基础概率和回归均值。
+- **置信度**: ★★★★★ 核心批判
+
+### 10. "有效性错觉"（Illusion of Validity）
+- **出现书籍/论文**:
+  - Nobel自传中首次描述
+  - "On the Psychology of Prediction" (1973)
+  - Thinking, Fast and Slow (2011)
+- **核心内容**: 即使证据表明预测无效，人们仍然相信自己的判断能力。这是Kahneman发现的第一个"认知错觉"。
+- **置信度**: ★★★★★ 个人发现起点
+
+---
+
+## 四、自创术语和概念
+
+### 1. 系统1（System 1）/ 系统2（System 2）
+- **首次提出**: Maps of Bounded Rationality (2003), Thinking, Fast and Slow (2011)正式命名
+- **定义**: 系统1是快速、自动、直觉的思维；系统2是缓慢、理性、需要努力的思维。
+- **影响**: 成为行为科学最广泛使用的框架之一
+
+### 2. 前景理论（Prospect Theory）
+- **首次提出**: Kahneman & Tversky (1979)
+- **定义**: 描述性决策理论，描述人们如何在风险条件下做选择。特征：参考点依赖、损失厌恶、几率权重。
+- **影响**: 获诺贝尔经济学奖的核心贡献，开创行为经济学
+
+### 3. 价值函数（Value Function）
+- **首次提出**: Kahneman & Tversky (1979)
+- **定义**: S形曲线，在参考点处开始，对收益呈凹形（边际效用递减），对损失呈凸形，损失部分的斜率约为收益部分的2倍。
+- **影响**: 前景理论的核心数学模型
+
+### 4. 损失厌恶（Loss Aversion）
+- **首次提出**: Kahneman & Tversky (1979)
+- **定义**: 人们对损失的痛苦感知大于同等收益的快乐感知。
+- **影响**: 解释了广泛的经济行为和现象
 
 ### 5. 框架效应（Framing Effect）
+- **首次提出**: Tversky & Kahneman (1981)
+- **定义**: 同一问题的不同表述方式导致不同的决策选择。
+- **影响**: 在政策、医疗、金融等领域有广泛应用
 
-- **出现场景**：
-  - 《The Framing of Decisions and the Psychology of Choice》(1981)
-  - 《思考，快与慢》：专门章节
-  - 医疗决策、法律判决等应用研究
-- **核心观点**：问题的呈现方式影响决策
-- **可信度**：一手
+### 6. 启发式（Heuristics）
+- **首次提出**: Tversky & Kahneman (1974)
+- 三种主要启发式:
+  - **代表性启发式（Representativeness Heuristic）**: 根据相似性判断概率
+  - **可得性启发式（Availability Heuristic）**: 根据记忆中例子的可得性判断概率
+  - **锚定与调整启发式（Anchoring and Adjustment Heuristic）**: 根据初始锚点调整估计
+- **影响**: 开创"启发式与偏差"研究纲领
 
-### 6. 直觉判断的局限性
+### 7. 禀赋效应（Endowment Effect）
+- **首次提出**: Kahneman, Knetsch & Thaler (1991)
+- **定义**: 人们对自己拥有的物品估价更高。
+- **影响**: 解释市场中的非理性行为
 
-- **出现场景**：
-  - 《Thinking Fast and Slow》：系统1不可靠性的论证
-  - 《Noise》：系统噪声导致判断不一致
-  - 早期论文：直觉预测的偏差
-- **可信度**：一手
+### 8. 体验效用（Experienced Utility）/ 决策效用（Decision Utility）
+- **首次提出**: Kahneman (1994, 1999)
+- **定义**: 体验效用是实际的体验价值；决策效用是决策时预期的价值。两者常有偏差。
+- **影响**: 开创幸福经济学研究
 
-### 7. 参考点依赖（Reference Dependence）
+### 9. 体验自我（Experiencing Self）/ 记忆自我（Remembering Self）
+- **首次提出**: Thinking, Fast and Slow (2011)
+- **定义**: 体验自我活在当下；记忆自我记录故事并做决策。人生满意度由记忆自我主导。
+- **影响**: 对幸福感研究有深远影响
 
-- **出现场景**：
-  - 前景理论（1979）：价值函数基于参考点
-  - 后续研究：不同领域应用
-- **核心观点**：人们评估收益和损失基于相对于参考点的变化，而非绝对水平
-- **可信度**：一手
+### 10. 峰终定律（Peak-End Rule）
+- **首次提出**: Kahneman (1993, 与Barbara Fredrickson合作)
+- **定义**: 人们对体验的记忆主要取决于高峰时刻和结束时刻的强度，而非总持续时间。
+- **影响**: 对医疗、服务设计等领域有重要应用
 
----
+### 11. 忽视持续时间（Duration Neglect）
+- **首次提出**: Kahneman (1993)
+- **定义**: 回忆体验评价时，持续时间的影响很小。
+- **影响**: 对幸福感测量方法有重要启示
 
-## 自创术语和概念
+### 12. 回归均值（Regression to the Mean）
+- **首次详细阐述**: Kahneman & Tversky (1973)
+- **核心内容**: 极端表现之后往往会回归平均水平，但人们常忽视这一统计规律。
+- **影响**: 对预测和评估有重要启示
 
-### 1. 前景理论（Prospect Theory）
-- **定义**：一种描述性决策理论，解释人们在风险和不确定性下如何做出选择，挑战传统的期望效用理论
-- **首次提出**：Kahneman & Tversky, 1979, Econometrica
-- **核心组件**：价值函数（S形）、权重函数、参考点依赖、损失厌恶
-- **可信度**：一手
+### 13. 基础概率忽视（Base Rate Neglect）
+- **首次提出**: Tversky & Kahneman (1973)
+- **定义**: 人们在预测时倾向于忽视基础概率信息。
+- **影响**: 对概率判断和决策有重要启示
 
-### 2. 系统1与系统2（System 1 and System 2）
-- **定义**：描述人类两种思维模式的隐喻性框架
-  - 系统1：快速、自动、直觉、无意识、情感驱动、低认知负荷
-  - 系统2：缓慢、需要努力、逻辑、有意识、深思熟虑、高认知负荷
-- **首次提出**：《思考，快与慢》(2011)系统化阐述
-- **基础**：早期双加工理论和《Attention and Effort》(1973)
-- **可信度**：一手
+### 14. 合取谬误（Conjunction Fallacy）
+- **首次提出**: Tversky & Kahneman (1983)
+- **定义**: 人们认为合取事件（A且B）比单个事件A更可能发生，违反概率规则。经典实验："Linda问题"。
+- **影响**: 揭示直觉概率判断的系统性错误
 
-### 3. 损失厌恶（Loss Aversion）
-- **定义**：人们对损失的痛苦大于同等金额收益带来的快乐，通常估计为损失的痛苦是收益快乐的2-2.5倍
-- **首次提出**：前景理论论文(1979)
-- **可信度**：一手
+### 15. 有效性错觉（Illusion of Validity）
+- **首次提出**: Kahneman & Tversky (1973)
+- **定义**: 即使预测记录为零，人们仍相信自己的判断能力。
+- **影响**: Kahneman的第一个认知错觉发现
 
-### 4. 锚定效应（Anchoring Effect）
-- **定义**：在数值估算时，人们过度依赖最初得知的数值（锚点）进行调整，导致估计偏差
-- **首次提出**：Tversky & Kahneman, 1974, Science
-- **可信度**：一手
+### 16. 可预测性错觉（Illusion of Predictability）
+- **概念相关**: 与有效性错觉相关
+- **定义**: 过度相信自己能预测结果，忽视不确定性和回归均值。
 
-### 5. 代表性启发式（Representativeness Heuristic）
-- **定义**：通过判断物体或事件与类别原型的相似性来评估概率，忽略基础概率
-- **首次提出**：Kahneman & Tversky, 1972, Cognitive Psychology
-- **可信度**：一手
+### 17. 过度自信（Overconfidence）
+- **相关研究**: 多篇论文涉及
+- **定义**: 人们对自己的知识、能力和预测准确度过度自信。
 
-### 6. 可得性启发式（Availability Heuristic）
-- **定义**：通过样本被回忆的难易程度来评估频率或概率，导致对印象深刻事件的概率高估
-- **首次提出**：Tversky & Kahneman, 1973, Cognitive Psychology
-- **可信度**：一手
+### 18. 前景效应（Prospect Effect）
+- **来源**: 前景理论的衍生
+- **定义**: 风险态度在收益和损失域的不对称性。
 
-### 7. 框架效应（Framing Effect）
-- **定义**：相同决策问题的不同呈现方式（框架）会导致不同的选择偏好
-- **经典实验**：亚洲疾病问题（挽救生命 vs 死亡人数）
-- **首次提出**：Tversky & Kahneman, 1981, Science
-- **可信度**：一手
+### 19. 反射效应（Reflection Effect）
+- **首次提出**: Kahneman & Tversky (1979)
+- **定义**: 在收益域风险厌恶，在损失域风险寻求。
+- **影响**: 解释冒险行为的情境依赖
 
-### 8. 噪声（Noise）
-- **定义**：在应该相同的判断中出现的变异性，即在相同信息、相同情境下不同判断者的判断差异
-- **首次系统提出**：《Noise》(2021)
-- **对比概念**：偏差（Bias）——系统性偏离正确答案
-- **可信度**：一手
+### 20. 确定效应（Certainty Effect）
+- **首次提出**: Kahneman & Tversky (1979)
+- **定义**: 人们过度偏好确定性结果。
+- **影响**: 解释保险购买和彩票参与
 
-### 9. 小数法则信念（Belief in the Law of Small Numbers）
-- **定义**：人们错误地认为小样本能代表总体特征，忽视抽样误差
-- **首次提出**：Tversky & Kahneman, 1971, Psychological Bulletin
-- **可信度**：一手
+### 21. 伪确定性效应（Pseudocertainty Effect）
+- **首次提出**: Tversky & Kahneman (1981)
+- **定义**: 对不确定事件的确定性感，源于框架效应。
 
-### 10. 事后偏见（Hindsight Bias）
-- **定义**：知道结果后，认为自己早就预料到的倾向
-- **出现场景**：《思考，快与慢》
-- **可信度**：一手
+### 22. 概率权重函数（Probability Weighting Function）
+- **首次提出**: Kahneman & Tversky (1979), 后由Tversky & Kahneman (1992)完善
+- **定义**: 人们主观感受的概率与客观概率不同——高估小概率，低估大概率。
 
-### 11. 确定效应（Certainty Effect）
-- **定义**：人们对确定性结果赋予过高权重，偏好确定收益而非概率性收益（即使期望值相同或更高）
-- **首次提出**：前景理论(1979)
-- **可信度**：一手
+### 23. 后见之明偏误（Hindsight Bias）
+- **相关讨论**: 多篇论文涉及
+- **定义**: 事后觉得自己"早就知道"结果。
 
-### 12. 认知放松/紧张（Cognitive Ease / Cognitive Strain）
-- **定义**：描述认知状态的两个维度
-  - 认知放松：系统1顺利运作，感觉轻松、愉快
-  - 认知紧张：需要调用系统2，感觉费力、警觉
-- **首次提出**：《思考，快与慢》
-- **可信度**：一手
+### 24. 注意力预算（Attention Budget）
+- **首次提出**: Attention and Effort (1973)
+- **定义**: 注意力是有限的认知资源，需要分配。
 
-### 13. 禀赋效应（Endowment Effect）
-- **定义**：人们对自己拥有的物品评价高于未拥有时的同款物品
-- **首次提出**：Kahneman, Knetsch & Thaler, 1991
-- **理论基础**：损失厌恶
-- **可信度**：一手
+### 25. 享乐适应（Hedonic Adaptation）的应用
+- **相关讨论**: Well-Being (1999)
+- **内容**: 人们会适应好的和坏的环境，幸福感会回归基准。
 
 ---
 
-## 推荐书单
+## 五、推荐书单（智力谱系）
 
-根据搜索结果，Kahneman曾推荐以下书籍：
+### Kahneman经常引用和推荐的作者/书籍
 
-### 1. 《Clinical versus Statistical Prediction》- Paul Meehl
-- **来源**：Shortform整理的Kahneman推荐书单
-- **可信度**：二手（整理自访问、社交媒体等）
-- **备注**：Meehl对临床和统计预测方法的比较分析
+#### 1. Amos Tversky (长期合作者)
+- **关系**: 长期合作者，共同开创行为经济学
+- **重要合作**: 前景理论、启发式与偏差研究
 
-### 2. 《Scarcity: Why Having Too Little Means So Much》- Sendhil Mullainathan & Eldar Shafir
-- **来源**：Shortform整理
-- **可信度**：二手
-- **备注**：稀缺心态如何影响决策
+#### 2. Richard Thaler
+- **关系**: 行为经济学奠基人之一，Kahneman的学术伙伴
+- **推荐书籍**: Nudge (2008, 与Cass Sunstein合著)
+- **影响**: 禀赋效应、心理账户等概念
 
-### 3. 《Simpler: The Future of Government》- Cass R. Sunstein
-- **来源**：Shortform整理
-- **可信度**：二手
-- **备注**：Sunstein是Kahneman《Noise》的合著者之一
+#### 3. Daniel Gilbert
+- **推荐书籍**: Stumbling on Happiness (2006)
+- **相关**: 幸福感研究
 
-### 4. 《Skin in the Game》- Nassim Nicholas Taleb
-- **来源**：Shortform整理
-- **可信度**：二手
-- **备注**：Taleb关于风险和责任的观点
+#### 4. Jonathan Haidt
+- **推荐书籍**: The Righteous Mind (2012)
+- **相关**: 道德心理学
 
-### 5. 《Loonshots》- Safi Bahcall
-- **来源**：Shortform整理（Kahneman曾评价此书）
-- **原文评价**："This book has everything: new ideas, bold insights, entertaining history and convincing analysis. Not to be missed by anyone who wants to understand how ideas change the world."
-- **可信度**：一手（来自Kahneman的推荐语）
+#### 5. Philip Tetlock
+- **推荐书籍**: Superforecasting (2015, 与Dan Gardner合著)
+- **相关**: 预测研究
 
----
+#### 6. Cass Sunstein
+- **关系**: 行为政策研究伙伴
+- **推荐书籍**: Nudge (与Richard Thaler合著)
 
-## 学术谱系与重要合作关系
+#### 7. David Rapaport
+- **关系**: Kahneman研究生时期的导师
+- **影响**: 弗洛伊德理论的心理能量概念影响了Attention and Effort
 
-### 核心合作者
+#### 8. Kurt Lewin
+- **关系**: Kahneman早期受其影响
+- **影响**: 生活空间的力场图概念
 
-1. **Amos Tversky (1937-1996)**
-   - 终身合作伙伴
-   - 共同提出前景理论、启发式和偏差研究框架
-   - 合作主要论文：1971《小数法则信念》、1972《主观概率》、1973《心理学预测》、1974《不确定状况下的判断》、1979《前景理论》、1981《决策框架》等
+#### 9. Paul Meehl
+- **关系**: 临床预测vs统计预测研究对Kahneman有重大影响
+- **推荐书籍**: Clinical versus Statistical Prediction (1954)
+- **来源**: Nobel自传中提到
 
-2. **Cass R. Sunstein**
-   - 《Noise》合著者
-   - 行为经济学和政策应用研究者
-
-3. **Olivier Sibony**
-   - 《Noise》合著者
-   - 麦肯锡合伙人，决策研究者
-
-4. **Richard Thaler**
-   - 行为经济学奠基人之一
-   - 与Kahneman合作研究禀赋效应
-   - Nobel经济学奖得主(2017)
-
-5. **Paul Slovic**
-   - 风险感知研究先驱
-   - 《Judgment under Uncertainty》合编者
-
-### 学术影响
-
-- **Nobel经济学奖(2002)**："for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty"
-- **行为经济学奠基人**：与Amos Tversky共同开创了行为经济学领域
-- **认知心理学影响**：双系统理论成为认知心理学核心框架
-- **跨学科影响**：经济学、心理学、医学、法律、公共政策、金融等领域
+#### 10. 贝叶斯统计学者
+- **影响**: Kahneman的研究常与贝叶斯理性作为对比
 
 ---
 
-## 著作时间线
+## 六、矛盾与争议
 
-| 年份 | 著作/论文 | 类型 |
-|------|----------|------|
-| 1971 | 《Belief in the Law of Small Numbers》 | 论文 |
-| 1972 | 《Subjective Probability: A Judgment of Representativeness》 | 论文 |
-| 1973 | 《Attention and Effort》 | 书籍 |
-| 1973 | 《On the Psychology of Prediction》 | 论文 |
-| 1973 | 《Availability: A Heuristic for Judging Frequency and Probability》 | 论文 |
-| 1974 | 《Judgment under Uncertainty: Heuristics and Biases》 | 论文(Science) |
-| 1979 | 《Prospect Theory: An Analysis of Decision under Risk》 | 论文(Econometrica) |
-| 1981 | 《The Framing of Decisions and the Psychology of Choice》 | 论文(Science) |
-| 1982 | 《Judgment under Uncertainty: Heuristics and Biases》 | 编辑著作 |
-| 1991 | 《Anomalies: The Endowment Effect, Loss Aversion, and Status Quo Bias》 | 论文 |
-| 1992 | 《Advances in Prospect Theory》 | 论文 |
-| 2000 | 《Choices, Values, and Frames》 | 编辑著作 |
-| 2011 | 《Thinking, Fast and Slow》 | 书籍 |
-| 2021 | 《Noise: A Flaw in Human Judgment》 | 书籍(合著) |
+### 1. 关于启发式是"偏差"还是"适应性工具"的争议
+- **Kahneman立场**: 启发式在多数情况下有效，但在重要决策中需要警惕其偏差
+- **对立观点**: Gerd Gigerenzer认为启发式是"快速节俭启发式"，是适应性的认知工具
+- **来源**: 多篇论文及学术争论
+
+### 2. 关于系统1/系统2是否过于简化
+- **批评观点**: 框架过于简化，可能误导读者认为大脑真的有两个分离系统
+- **Kahneman回应**: 这是描述性框架，不是神经科学理论
+
+### 3. 关于前景理论的复制性问题
+- **争议**: 部分前景理论实验的复制性问题
+- **状态**: 核心发现（损失厌恶、参考点依赖）得到广泛支持
+
+### 4. 关于幸福感测量的方法论争执
+- **争议**: Kahneman的"体验自我"vs"记忆自我"框架与部分幸福感研究者的方法差异
+- **Kahneman立场**: 支持使用时间采样（Day Reconstruction Method）而非单一回顾性问卷
 
 ---
 
-## 信息源可信度说明
+## 七、信息源可信度分级
 
-### 一手信息源
-- 普林斯顿Kahneman学者页面：https://kahneman.scholar.princeton.edu/publications
-- Nobel Prize官网：https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/
-- Science、Econometrica、Psychological Review等期刊原文
-- ReadNoise官网：https://readnoise.com/
+### 一手来源（高可信度）
+1. **Nobel Prize官网** - 自传、演讲
+   - URL: https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/
+   - 可信度: ★★★★★
 
-### 二手信息源
-- 豆瓣读书（书籍介绍）
-- 百度百科、搜狗百科（概念梳理）
-- 知乎、CSDN等（解读文章）
-- 学术网站（Semantic Scholar、JSTOR摘要）
+2. **Kahneman本人撰写的书籍和论文**
+   - Thinking, Fast and Slow (2011)
+   - Attention and Effort (1973)
+   - Judgment under Uncertainty (1982)
+   - Choices, Values, and Frames (2000)
+   - Well-Being (1999)
+   - 可信度: ★★★★★
+
+3. **原始学术论文**
+   - Econometrica (1979 Prospect Theory论文)
+   - Science (1974, 1981等重要论文)
+   - Psychological Review (1973等)
+   - 可信度: ★★★★★
+
+4. **Nobel Lecture**
+   - Maps of Bounded Rationality (2003)
+   - URL: https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf
+   - 可信度: ★★★★★
+
+### 二手来源（中等可信度）
+1. 学术文献综述
+2. 学者访谈
+3. 学术会议上发表的论文引用
 
 ### 黑名单信息源
-- 知乎专栏（部分浅层解读，但仍使用了豆瓣读书等数据）
-- 微信公众号文章（已排除）
-- 百度百科（已排除）
+- ❌ 知乎
+- ❌ 微信公众号
+- ❌ 百度百科
 
 ---
 
-## 待补充信息
+## 八、年表整理
 
-1. Kahneman更多推荐书单（Five Books网站访问受限）
-2. 完整学术论文列表（需要访问学术数据库）
-3. 详细访谈录和演讲（可补充思维风格信息）
-4. 批评和争议（需要额外的信息收集）
+| 年份 | 事件/著作 |
+|------|----------|
+| 1934 | 出生于特拉维夫 |
+| 1954 | 以色列军队服役，开发面试系统 |
+| 1956 | 进入加州大学伯克利分校研究生院 |
+| 1958 | 在Austen Riggs Clinic学习 |
+| 1973 | 出版《Attention and Effort》 |
+| 1973 | 与Tversky发表"On the Psychology of Prediction" |
+| 1974 | 与Tversky在Science发表"Judgment under Uncertainty: Heuristics and Biases" |
+| 1979 | 与Tversky在Econometrica发表"Prospect Theory" |
+| 1981 | 与Tversky在Science发表"The Framing of Decisions and the Psychology of Choice" |
+| 1982 | 编辑出版《Judgment under Uncertainty》 |
+| 1991 | 与Knetsch和Thaler发表禀赋效应论文 |
+| 1999 | 编辑出版《Well-Being》 |
+| 2000 | 编辑出版《Choices, Values, and Frames》 |
+| 2002 | 获诺贝尔经济学奖 |
+| 2003 | Nobel Lecture: "Maps of Bounded Rationality" |
+| 2011 | 出版《Thinking, Fast and Slow》 |
+| 2024 | 3月27日去世 |
+
+---
+
+## 九、研究注释
+
+1. **方法论特点**: Kahneman的研究以实验心理学方法为基础，通过精心设计的实验揭示人类判断和决策的系统性偏差。
+
+2. **学术风格**: 强调"示范式实验"——用单一、生动的实验展示认知现象，而非大规模统计调查。
+
+3. **跨学科影响**: 心理学、经济学、医学、法律、公共政策等领域都受到其研究影响。
+
+4. **与Tversky的合作**: Amos Tversky是Kahneman最重要的学术伙伴，两人合作无间，Tversky于1996年去世，Kahneman在Nobel演讲中多次致敬。
+
+5. **研究演进**: 从早期启发式与偏差研究 → 前景理论决策研究 → 幸福感研究 → 双系统理论整合。
+
+---
+
+**研究完成**
+**研究方法**: 诺贝尔奖官网资料 + 学术文献检索（部分因访问限制未能完全获取原文）
+**待补充**: 需要进一步获取其完整论文目录及更多访谈材料
